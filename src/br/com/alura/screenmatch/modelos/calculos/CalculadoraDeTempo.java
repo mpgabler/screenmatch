@@ -1,4 +1,6 @@
-package br.com.alura.screenmatch.modelos;
+package br.com.alura.screenmatch.modelos.calculos;
+
+import br.com.alura.screenmatch.modelos.modelos.Titulo;
 
 public class CalculadoraDeTempo {
     private int tempoTotal;
